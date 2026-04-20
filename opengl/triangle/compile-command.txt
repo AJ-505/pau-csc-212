@@ -1,0 +1,1 @@
+g++ main.cpp -o triangle -lglfw -lGLEW -lGL -ldl -std=c++17
