@@ -1,1 +1,5 @@
+Full repo (with all assignments)
 https://github.com/AJ-505/pau-csc-212
+
+Direct link to solution to OpenGL Assignment, opened Tuesday, 21 April 2026:
+https://github.com/AJ-505/pau-csc-212/blob/main/opengl/pyramid.cpp
